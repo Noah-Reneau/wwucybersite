@@ -2,13 +2,13 @@ baseURL = "/"
 
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+paginate = 3
 
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "blue"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
   # set theme to full screen width
@@ -30,7 +30,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "WWU Cybersecurity Club"
-      logoHomeLink = "/about"
+       logoHomeLink = "/about"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

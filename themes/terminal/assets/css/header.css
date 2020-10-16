@@ -15,6 +15,10 @@
   flex-direction: column;
   position: relative;
 
+  @media print {
+    display: none;
+  }
+
   &__inner {
     display: flex;
     align-items: center;
@@ -118,6 +122,31 @@
           padding: 5px;
           white-space: nowrap;
         }
+      }
+    }
+
+    .spacer {
+      flex-grow: 1;
+    }
+
+    .language-selector {
+      position: relative;
+      list-style: none;
+      margin: 0;
+
+      &-current {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        color: var(--accent);
+        cursor: pointer;
+        margin: 0;
+      }
+
+      &__more {
+        @mixin menu;
+        top: 35px;
+        right: 0;
       }
     }
 
