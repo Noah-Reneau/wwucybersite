@@ -6,7 +6,7 @@ draft: false
 
 ## Welcome to the Cybersecurity Club!
 
-We're looking forward to having a great year in 2020 & 2021.
+We're looking forward to having a great year in 2021 & 2022.
 Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
@@ -25,6 +25,6 @@ Our plans for this year include:
 #### Contact
 
 * [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
-* Message Ben or Reginald on the Slack
+* Message Noah or Sid on the Slack
 
 
