@@ -25,6 +25,6 @@ Our plans for this year include:
 #### Contact
 
 * [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
-* Message Noah or Ben on the Slack
+* Message Noah or Sid on the Slack
 
 
